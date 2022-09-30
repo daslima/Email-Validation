@@ -12,6 +12,7 @@
   "author": "David Lima",
   "license": "MIT",
   "devDependencies": {
-    "cypress": "^10.8.0"
+    "cypress": "^10.8.0",
+    "cypress-mailosaur": "^2.12.0"
   }
 }
